@@ -8,4 +8,4 @@ It's flowery, that animates and makes sound when you click on him
 
 There's 3 easer eggs in it, won't tell you >:)
 
-![spiral](https://raw.githubusercontent.com/pizzasdu83/Flowerman/refs/heads/main/flo/spiral)
+![spiral](https://raw.githubusercontent.com/pizzasdu83/Flowerman/refs/heads/main/flo/spiral.gif)
