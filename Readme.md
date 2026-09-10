@@ -1,6 +1,6 @@
 # Flowery 
 
-This is a website I made with 0 usee of ai in any ways :D
+This is a website I made with 0 use of ai in any ways :D
 
 It's flowery, that animates and makes sound when you click on him
 
